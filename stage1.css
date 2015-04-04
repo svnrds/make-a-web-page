@@ -1,0 +1,49 @@
+body {
+	background-color: #737373;
+}
+
+h1 {
+	text-align: center;
+}
+
+h2 {
+
+}
+p{
+	max-width: 80%;
+}
+span{
+	background-color: #FFFF00;
+
+}
+aside {
+	max-width: 20%;
+	background-color: #EDABAB;
+	float: right;
+	border-radius: 30px;
+	padding: 10px;
+}
+
+code{
+	background-color: white;
+}
+.notes-body {
+	
+	/*outline: 1px solid black !important;*/
+}
+.notes-header {
+
+}
+.lesson-title {
+	text-align: center;
+}
+.lesson-body {
+	/*float: left;*/
+	border-radius: 40px;
+	margin: 15px auto;
+	padding: 20px;
+	background-color: #BADA55;
+	max-width: 80%;
+
+	/*outline: 1px solid black !important;*/
+}
